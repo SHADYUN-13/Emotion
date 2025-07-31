@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-07-28T13:02:15.340712",
+  "python": "3.8.20 | packaged by conda-forge | (default, Sep 30 2024, 17:44:03) [MSC v.1929 64 bit (AMD64)]",
+  "platform": {
+    "system": "Windows",
+    "release": "10",
+    "version": "10.0.26100",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel"
+  },
+  "torch": "1.9.1+cu111",
+  "cuda_devices": [
+    {
+      "index": 0,
+      "name": "NVIDIA GeForce RTX 3080",
+      "capability": [
+        8,
+        6
+      ]
+    }
+  ]
+}
